@@ -1,0 +1,3 @@
+﻿  DiceGame.cpp
+C:\Users\11488\Desktop\Game programming practice\week 1\DiceGame\DiceGame\DiceGame.cpp(10,10): warning C4101: 'isFirst': unreferenced local variable
+  DiceGame.vcxproj -> C:\Users\11488\Desktop\Game programming practice\week 1\DiceGame\Debug\DiceGame.exe
